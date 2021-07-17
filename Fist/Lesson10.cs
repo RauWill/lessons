@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 // git add .        -- делается перед коммитом
 // git сommmit -m "message"      -- сохраняет изменения в локальном репозитории
 // git push <branch>             -- сохраняет изменения в удалённом репозитории
+// git pull origin <branch>      -- получает изменения из удалённого репозитория
 namespace Fist
 {
     class Lesson10
