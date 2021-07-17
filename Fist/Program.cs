@@ -28,7 +28,7 @@ namespace Fist
             Console.WriteLine("Произведение ваших чисел: " + composition);  
             
             // changes from github
-            // sdjfskdjf
+            
 
         }
     }
