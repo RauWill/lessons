@@ -1,0 +1,16 @@
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.exe
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.deps.json
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.runtimeconfig.json
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.runtimeconfig.dev.json
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.dll
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\ref\Fist.dll
+C:\Users\RauWill\source\repos\Fist-r\Fist\bin\Debug\net5.0\Fist.pdb
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.csproj.AssemblyReference.cache
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.AssemblyInfoInputs.cache
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.AssemblyInfo.cs
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.csproj.CoreCompileInputs.cache
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.dll
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\ref\Fist.dll
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.pdb
+C:\Users\RauWill\source\repos\Fist-r\Fist\obj\Debug\net5.0\Fist.genruntimeconfig.cache
