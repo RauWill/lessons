@@ -15,6 +15,7 @@ namespace Fist
         {
             Console.WriteLine("Hello, world");
             Console.WriteLine("Hello, world from github");
+            Console.WriteLine("Добро пожаловать!");
         }
     }
 }
