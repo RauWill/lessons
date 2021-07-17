@@ -18,7 +18,7 @@ namespace Fist
             Console.WriteLine("Спасибо");
             Console.WriteLine("Урок изучен");
             Console.WriteLine("Новая строка");
-            Console.WriteLine("Получилось");
+            Console.WriteLine("Получилось111");
         }
     }
 }
