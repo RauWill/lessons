@@ -26,6 +26,8 @@ namespace Fist
             Console.WriteLine("Сумма ваших чисел: " + summ);
             Console.WriteLine();
             Console.WriteLine("Произведение ваших чисел: " + composition);  
+            
+            // changes from github
 
         }
     }
