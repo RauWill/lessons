@@ -4,40 +4,28 @@ namespace Fist
 {
     class Program
     {
+        // Программа для вывода суммы и произведения двух чисел
         static void Main(string[] args)
         {
-            string str;
-
-            int a, b, c, d;
+            string stringOperand;
+            int firstOperand, secondOperand, summ, composition;
 
             Console.WriteLine("Введите первое число");
 
-            str = Console.ReadLine();
-
-            a = int.Parse(str);
+            stringOperand = Console.ReadLine();
+            firstOperand = int.Parse(stringOperand);
 
             Console.WriteLine("Введите второе число");
 
-            str = Console.ReadLine();
+            stringOperand = Console.ReadLine();
+            secondOperand = int.Parse(stringOperand);
 
-            b = int.Parse(str);
+            summ = firstOperand + secondOperand;
+            composition = firstOperand * secondOperand;
 
-            c = a + b;
-
-            d = a * b;
-
-            Console.WriteLine("Сумма ваших чисел: " + c);
-
+            Console.WriteLine("Сумма ваших чисел: " + summ);
             Console.WriteLine();
-
-            Console.WriteLine("Произведение ваших чисел: " + d);  
-              
-
-
-
-            
-
-
+            Console.WriteLine("Произведение ваших чисел: " + composition);  
 
         }
     }
